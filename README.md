@@ -18,4 +18,7 @@ sudo timedatectl set-timezone 'Asia/Seoul'
 $ sudo apt-get update$ sudo apt-get install fcitx-hangul
  
 우분투 Setting에서 Region & Language 수행 - Manage installed Language 버튼 실행한다.
-출처: https://driz2le.tistory.com/253 [홀로 떠나는 여행:티스토리]
+dkseh
+sudo apt install
+sudo apt install fcitx-hangul
+로 진행했는데 가능
